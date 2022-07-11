@@ -1,2 +1,2 @@
 # Frontend-Projects
-Simple frontend projects using only HTML & CSS
+Simple frontend projects using only HTML, CSS & Bootstrap
